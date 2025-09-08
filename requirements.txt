@@ -1,0 +1,8 @@
+﻿fastapi>=0.112
+uvicorn[standard]>=0.30
+pydantic>=2.8
+python-dotenv>=1.0
+openai>=1.40
+tiktoken>=0.7
+docxtpl>=0.16
+pytest>=8.2

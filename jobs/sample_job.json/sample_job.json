@@ -1,0 +1,10 @@
+{
+  "source": "bhaskar_chat",
+  "title": "QA Automation Intern",
+  "company": "Acme Corp",
+  "location": "Remote",
+  "must_have": [],
+  "nice_to_have": [],
+  "description_text": "We need Python, Playwright, CI/CD, and Git. Nice to have FastAPI and Linux.",
+  "apply_url": "https://example.com/apply"
+}

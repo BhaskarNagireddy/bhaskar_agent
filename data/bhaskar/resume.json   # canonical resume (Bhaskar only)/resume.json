@@ -1,0 +1,19 @@
+{
+  "owner_id": "bhaskar",
+  "basics": {
+    "name": "Bhaskar Satyendra Kumar Nagireddy",
+    "title": "Software Engineering Student | QA/Agile | Automation",
+    "contacts": {
+      "email": "bhaskar@example.com",
+      "phone": "+1-000-000-0000",
+      "linkedin": "https://linkedin.com/in/bhaskar-...",
+      "github": "https://github.com/bhaskar-..."
+    },
+    "summary": "ATS-safe summary about Bhaskar."
+  },
+  "skills": ["Python","FastAPI","SQL","Playwright","CI","CD","Git","Docker"],
+  "experience": [],
+  "projects": [],
+  "education": [],
+  "certs": []
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Bhaskar",
+  "contact": {
+    "email": "bhaskar@example.com",
+    "phone": "+1234567890",
+    "linkedin": "https://linkedin.com/in/bhaskar"
+  },
+  "summary": "Dedicated software engineer with a passion for developing innovative solutions and a strong background in Python and FastAPI.",
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "Example University",
+      "year": 2020
+    }
+  ],
+  "experience": [
+    {
+      "job_title": "Software Engineer",
+      "company": "Tech Solutions Inc.",
+      "duration": "2020 - Present",
+      "responsibilities": [
+        "Developed and maintained web applications using FastAPI and PostgreSQL.",
+        "Collaborated with cross-functional teams to define, design, and ship new features.",
+        "Participated in code reviews and contributed to team knowledge sharing."
+      ]
+    },
+    {
+      "job_title": "Intern",
+      "company": "Innovative Tech Co.",
+      "duration": "2019 - 2020",
+      "responsibilities": [
+        "Assisted in the development of internal tools using Python.",
+        "Conducted testing and debugging of applications.",
+        "Documented processes and created user manuals."
+      ]
+    }
+  ],
+  "skills": [
+    "Python",
+    "FastAPI",
+    "PostgreSQL",
+    "JavaScript",
+    "HTML/CSS",
+    "Git"
+  ],
+  "projects": [
+    {
+      "title": "Personal Portfolio Website",
+      "description": "A personal website to showcase projects and skills.",
+      "technologies": ["HTML", "CSS", "JavaScript"]
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Certified Python Developer",
+      "issuer": "Example Certification Authority",
+      "year": 2021
+    }
+  ]
+}
