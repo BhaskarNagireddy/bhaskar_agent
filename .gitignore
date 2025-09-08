@@ -1,0 +1,37 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Environment files (secrets, configs)
+.env
+*.env
+
+# VS Code settings
+.vscode/
+
+# Build outputs
+*.log
+*.pot
+*.mo
+
+# Data outputs (generated resumes, cover letters)
+data/bhaskar/outputs/
+*.pdf
+*.docx
+
+# Pytest cache
+.pytest_cache/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# OS-specific
+.DS_Store
+Thumbs.db
